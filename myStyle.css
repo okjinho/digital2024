@@ -57,7 +57,7 @@ body {
 }
 
 .line {
-    width: 50px;
+    width: 250px;
     height: 2px;
     background-color: black;
 }
